@@ -1,2 +1,3 @@
 # hello-world
-Test
+Test my first project
+Hello World
